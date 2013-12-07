@@ -1,12 +1,12 @@
-# Backup to WebDav
-Script for backup some folder of your project to WebDav.
+# Backup to WebDAV
+Script for backup some folder of your project to WebDAV.
 
 #### Run
 ``./backup.sh``
 
 #### Configuration
   * install [cadaver](http://www.webdav.org/cadaver/)
-  * create directory on your WebDav server
+  * create directory on your WebDAV server
   * write `~/.netrc` config file for autologin
   * write `.backuprc`
   	* HOST – host, where to connect

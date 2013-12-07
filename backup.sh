@@ -1,3 +1,7 @@
+#
+# Ccopyright (c) 2013 Oleg Apostol
+# Script for backup some folder of your project to WebDAV v0.0.1
+#
 #! /bin/bash
 #! /usr/bin/expect -f
 
