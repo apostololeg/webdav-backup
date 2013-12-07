@@ -38,3 +38,6 @@ IGNORE_CONFIG=".backupignore"
 **/.DS_Store
 tmp
 ```
+
+### License
+[MIT](https://github.com/truerenton/webdav-backup/blob/master/LICENSE)
