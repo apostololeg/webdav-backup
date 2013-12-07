@@ -14,7 +14,7 @@ Script for backup some folder of your project to WebDav.
   	* DESTINATION_DIR – remote folder in which you want to back up
   	* IGNORE_CONFIG – optional config with ignores
 
-#### Config examples	
+#### Config's examples	
 
 ###### ~/.netrc
 ```
