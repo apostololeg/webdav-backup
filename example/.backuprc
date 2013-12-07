@@ -1,0 +1,8 @@
+# host, where to connect
+HOST="https://webdav.yandex.ru"
+# local folder you want to back up
+BACKUP_DIR="data"
+# remote folder in which you want to back up
+DESTINATION_DIR="example"
+# optional config with ignores
+IGNORE_CONFIG=".backupignore"
