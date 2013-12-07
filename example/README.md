@@ -2,4 +2,4 @@
 
 #### Run
 
-`./bin/backup`
+`./bin/backup.sh`
